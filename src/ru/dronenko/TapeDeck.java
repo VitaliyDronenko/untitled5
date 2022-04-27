@@ -7,7 +7,6 @@ public class TapeDeck {
     public  String y;
     public String z;
 
-
     public TapeDeck ()
     {
         System.out.println("xx");
